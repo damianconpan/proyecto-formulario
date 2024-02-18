@@ -20,17 +20,10 @@ h1{
     border: lightgray solid 1px;
     background-color: lightgray;
 
-    margin-left: 20px;
-    margin-right: 20px;
+        margin-left: 0px;
+        margin-right: 0px;
 }
-#botones{
-    border-radius: 20px;
-    padding-right: 7px;
-    color: gray;
-    margin-right: 100px;
-    padding-top: 2px;
-    padding-bottom: 2px;
-}
+
 .boton{
     margin-left: 230px ;
 }
